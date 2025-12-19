@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.SoapVS">
+        <servicesKeys>
+            <keyDetails collectionKey="services.basic:getServerTime" connectorServiceName="services.basic:getServerTime"/>
+            <keyDetails collectionKey="services.oauth2:getAccount" connectorServiceName="services.oauth2:getAccount"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
